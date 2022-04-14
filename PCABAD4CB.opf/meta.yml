@@ -1,0 +1,28 @@
+id: PCABAD4CB
+initial_creation_type: input
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA3JT13321
+  instance_id: http://purl.bdrc.io/resource/IE3JT13321
+  collection_id: http://purl.bdrc.io/resource/PR0ET001
+  language_id: None
+  title:
+    bo:
+    - ངེས་དོན་ཕྱག་རྒྱ་ཆེན་པོའི་སྨོན་ལམ་གྱི་འགྲེལ་ཆུང་བདུད་རྩིའི་བུམ་བཟང་།
+  alt_title:
+    bo:
+    - རྗེ་རང་བྱུང་ཞབས་ཀྱིས་མཛད་པའི་ངེས་དོན་ཕྱག་རྒྱ་ཆེན་པོའི་སྨོན་ལམ་གྱི་འགྲེལ་ཆུང་བདུད་རྩིའི་བུམ་བཟང་།
+  author: None
+  publisher: DharmaDownload
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    12fd457a29374de5a15bb72b130aaa8a:
+      title: ༄༅།་།རྗེ་རང་བྱུང་ཞབས་ཀྱིས་མཛད་པའི་ངེས་དོན་ཕྱག་རྒྱ་ཆེན་པོའི་སྨོན་ལམ་གྱི་འགྲེལ་ཆུང་
+      volume_number: 1
+      base_file: UT3JT13321_001_0000.txt
+      reference: http://purl.bdrc.io/resource/VLABD0C550C0178CFD
+      image_group: null
+      quality: null
+  reproductionOf: []
+created_at: '2021-12-22T11:21:33.963295'
+last_modified_at: '2021-12-22T11:21:33.963301'
